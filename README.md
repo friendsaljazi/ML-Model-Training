@@ -29,8 +29,5 @@ The model was trained using a dataset of labeled cat and dog images.
 2. Install the required libraries.
 3. Run all notebook cells to train the model and test predictions.
 
-## Test Image
-The included test image was used to evaluate the trained model and demonstrate its prediction capability.
-
 ## Author
 This project was developed as part of a machine learning training assignment.
